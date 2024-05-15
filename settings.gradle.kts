@@ -1,4 +1,4 @@
-rootProject.name = "demo"
+rootProject.name = "spring-boot-graalvm-demo"
 
 buildscript {
     repositories {
